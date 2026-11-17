@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Рассыпчатая фиксирующая пудра Essence fix & last 14h",
+      "brand": "Essence",
+      "category": "Пудра",
+      "image": "/src/assets/images/essence_fixandlast14h.jpg",
+      "type": [
+        "жирная",
+        "нормальная",
+        "комбинированная"
+      ],
+      "ingredients": "zea mays (corn) starch, mica, tapioca starch, magnesium stearate, ci 77891 (titanium dioxide)",
+      "description": "Рассыпчатая пудра fix & LAST 14h обеспечивает водостойкий эффект и фиксацию макияжа сроком до 14 часов."
+    },
+    {
+      "id": "2",
+      "name": "Тональный cc-крем для лица spf10 Luxvisage active complex",
+      "brand": "Luxvisage",
+      "category": "Тональный крем",
+      "image": "/src/assets/images/luxvisage_activecomplex.jpg",
+      "type": [
+        "нормальная",
+        "комбинированная"
+      ],
+      "ingredients": "Aqua, Glycerin, Ethylhexyl Methoxycinnamate, Cyclopentasiloxane, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Propylene Glycol Dicaprylate/Dicaprate, Octyldodecanol, C13-15 Alkane, Cyclohexasiloxane, Acetamidoethoxyethanol, Octyldodecyl Xyloside, PEG-30 Dipolyhydroxystearate, Dimethicone, Dimethicone Crosspolymer, Cetyl Dimethicone, Methyl Methacrylate Crosspolymer, Polyacrylate-13, Polyisobutene, Triethoxycaprylylsilane, Tocopheryl Acetate, Polysorbate 20, Phenoxyethanol, Methylparaben, Propylparaben, Ethylparaben, Parfum, Dimethyl Phenethyl Acetate",
+      "description": "Идеально подстраивается под тон кожи, улучшает её естественный оттенок, обеспечивает максимальную цветокоррекцию."
+    },
+    {
+      "id": "3",
+      "name": "Матовый консилер Essence camouflage+ matt",
+      "brand": "Essence",
+      "category": "Консилер",
+      "image": "/src/assets/images/essence_camouflagematt.jpg",
+      "type": [
+        "жирная",
+        "нормальная",
+        "комбинированная"
+      ],
+      "ingredients": "Aqua (Water), Talc, Dicaprylyl Ether, Isononyl Isononanoate, Glycerin, Isododecane, Polyglyceryl-3 Polyricinoleate, Tocopherol, Polyglyceryl-3 Diisostearate, Disteardimonium Hectorite, Potassium Cetyl Phosphate, Sodium Chloride, Synthetic Beeswax, Ethylhexylglycerin, Xanthan Gum, Lecithin, Tetrasodium Glutamate Diacetate, Ascorbyl Palmitate, Citric Acid, Phenoxyethanol, Parfum (Fragrance), CI 77491 (Iron Oxides), CI 77492 (Iron Oxides), CI 77499 (Iron Oxides), CI 77891 (Titanium Dioxide)",
+      "description": "Жидкий матовый консилер с очень высокой степенью покрытия — универсальное средство для эффективной маскировки заметных несовершенств кожи, стойкий."
+    },
+    {
+      "id": "4",
+      "name": "Кремовая губная помада-стик Love Generationpure kaif",
+      "brand": "Love Generation",
+      "category": "Помада",
+      "image": "/src/assets/images/lovegeneration_kaif.jpg",
+      "type": [
+        "нормальные",
+        "увлажнённые"
+      ],
+      "ingredients": "Ricinus communis (castor) oil, cera microcrystallina, isopropyl myristate, phenyl trimethicone, bis-diglyceryl-polyacyladipate-2, paraffin, caprylic/capric triglycerides, octyldodecanol, ethylhexyl palmitate, isononyl isononanoate, copernicia cerifera cera, synthetic fluorphlogopite, silica dimethyl silylate, helianthus annuus seed cera, montan acid wax, hydrogenated styrene/methyl styrene/indene copolymer, shorea robusta resin, ascorbyl palmitate, tocopherol, methylparaben, propylparaben, внт, aluminum hydroxide, triethoxycaprylylsilane, aroma, benzyl alcohol, benzyl benzoate, citral, eugenol",
+      "description": "Продукт с кремовой пигментированной текстурой равномерно прокрашивает губы и оставляет комфортный глянцевый финиш."
+    },
+    {
+      "id": "5",
+      "name": "Ультрастойкая подводка для глаз Eveline Precise Brush",
+      "brand": "Eveline",
+      "category": "Подводка",
+      "image": "/src/assets/images/eveline_precisebrush.jpg",
+      "type": [
+        "нормальные",
+        "средние"
+      ],
+      "ingredients": "Aqua (Water), Styrene/Acrylates Copolymer, Butylene Glycol, Peg-40 Hydrogenated Castor Oil, Phenoxyethanol, Capryl Glycol, Acrylates Copolymer, Betaine, Sodium Dehydroacetate, Glycerin, Hydroxyethylcellulose, Etylhexylglicerin, Panthenol, Biotinoyl Tripeptide-1, CI 77499",
+      "description": "Новая подводка для глаз заканчивается точной, мягкой кисточкой, благодаря которой нарисовать стрелки легко и просто."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
