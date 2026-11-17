@@ -66,6 +66,19 @@
       ],
       "ingredients": "Aqua (Water), Styrene/Acrylates Copolymer, Butylene Glycol, Peg-40 Hydrogenated Castor Oil, Phenoxyethanol, Capryl Glycol, Acrylates Copolymer, Betaine, Sodium Dehydroacetate, Glycerin, Hydroxyethylcellulose, Etylhexylglicerin, Panthenol, Biotinoyl Tripeptide-1, CI 77499",
       "description": "Новая подводка для глаз заканчивается точной, мягкой кисточкой, благодаря которой нарисовать стрелки легко и просто."
+    },
+    {
+      "name": "Parisa Cosmetics Ghost Tape",
+      "brand": "Parisa Cosmetisc",
+      "category": "Тени для век",
+      "image": "/src/assets/images/parisa_ghosttape.jpg",
+      "type": [
+        "нормальные",
+        "чувствительные"
+      ],
+      "ingredients": "Talc, Mica, Magnesium Stearate, Silica, Paraffinum Liquidum/Mineral Oll, Ethylhexyl Palmitate, Polybutene, Petrolatum Dimethicone, Microcrystalline Wax, Diazolidinyl Urea, Methylparaben, Ropylparaben. May Contain/Pigment: Cl 77007, CI 77891, CI 77499, Cl 77492, CI 77491, Cl 16035, CJ 15850, CI 15850:1, Cl 19140:1, Cl 42090, CI 45410:1, Calcium Sodiurn Borosilicate/Titanium Dioxide/Tin Oxide",
+      "description": "Палетка теней Ghost Tape открывает новые горизонты для создания выразительных и ярких образов. Сочетание насыщенных и стойких оттенков работают вместе, чтобы подчеркнуть вашу красоту в любых ситуациях. Текстуры специально разработаны так, чтобы идеально наносились на веки. Формула легкая, пигментированная, благодаря чему даже самые смелые цвета выглядят эффектно.",
+      "id": "BcDzcQ-M7Yk"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
